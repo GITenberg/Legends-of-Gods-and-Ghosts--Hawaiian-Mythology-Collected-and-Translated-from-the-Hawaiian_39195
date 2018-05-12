@@ -1,0 +1,33 @@
+_repo: Legends-of-Gods-and-Ghosts--Hawaiian-Mythology-Collected-and-Translated-from-the-Hawaiian_39195
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Westervelt, W. D. (William Drake)
+    aliases:
+    - Westervelt, William Drake
+    - Westervelt, William D. (William Drake)
+    birthdate: 1849
+    deathdate: 1939
+    gutenberg_agent_id: '35935'
+    url: http://www.gutenberg.org/2009/agents/35935
+description: ''
+gutenberg_issued: '2012-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39195'
+  lccn: '16001737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Legends -- Hawaii'
+- !lcsh 'Folklore -- Hawaii'
+title: 'Legends of Gods and Ghosts (Hawaiian Mythology)
+
+  Collected and Translated from the Hawaiian'
+url: http://www.gutenberg.org/ebooks/39195
